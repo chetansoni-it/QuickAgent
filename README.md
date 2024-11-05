@@ -15,3 +15,5 @@ python3 QuickAgent.py
 ```
 
 Youtube Video for reference: https://www.youtube.com/watch?v=J2sbC8X5Pp8
+
+another Youtube link for reference: https://www.youtube.com/watch?v=pi6gr_YHSuc
