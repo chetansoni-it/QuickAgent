@@ -13,3 +13,5 @@ The files in `building_blocks` are the isolated components if you'd like to insp
 ```
 python3 QuickAgent.py
 ```
+
+Youtube Video for reference: https://www.youtube.com/watch?v=J2sbC8X5Pp8
